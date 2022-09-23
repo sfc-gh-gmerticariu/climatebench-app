@@ -1,0 +1,4 @@
+streamlit
+geoviews
+xarray
+tensorflow

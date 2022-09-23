@@ -1,3 +1,9 @@
+# Data
+climatebench_webapp/
+*.tar.gz
+*.npy
+*.nc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -7,6 +13,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/
 .Python
 build/
 develop-eggs/
