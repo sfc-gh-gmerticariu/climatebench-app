@@ -1,0 +1,11 @@
+name: climatebench-app
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - geoviews
+  - streamlit
+  - xarray
+  - pip
+  - pip:
+      - tensorflow
