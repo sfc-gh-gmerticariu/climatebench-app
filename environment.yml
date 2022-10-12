@@ -4,7 +4,3 @@ channels:
 dependencies:
   - geoviews-core
   - xarray
-  - pip
-  - pip:
-      - tensorflow
-      - streamlit
