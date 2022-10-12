@@ -2,7 +2,8 @@ name: climatebench-app
 channels:
   - conda-forge
 dependencies:
-  - geoviews-core
+  - xarray
+  - pip
   - pip:
     - tensorflow==2.10.0
     - streamlit==1.13.0
