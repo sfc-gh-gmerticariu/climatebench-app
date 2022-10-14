@@ -3,7 +3,8 @@ channels:
   - conda-forge
 dependencies:
   - xarray
+  - geoviews-core
+  - streamlit
   - pip
   - pip:
     - tensorflow==2.10.0
-    - streamlit==1.13.0
