@@ -8,3 +8,5 @@ dependencies:
     - tensorflow==2.10.0
     - xarray
     - streamlit
+variables:
+  REQUESTS_CA_BUNDLE: /etc/ssl/certs/ca-certificates.crt
